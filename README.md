@@ -5,11 +5,6 @@ Users can create, view, update, and delete notes with authentication support.
 
 ---
 
-## 🚀 Live Demo
-🔗 https://flask-notes-app-liart.vercel.app
-
----
-
 ## 📌 Features
 
 - 🔐 User Authentication (Login & Signup)
